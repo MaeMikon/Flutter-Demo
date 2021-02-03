@@ -1,2 +1,2 @@
-# Flutter-Demo
-A simple flutter app
+# Flutter-Demo: RSA Algorithm
+A simple flutter app provides RSA Encryption & Decryption
