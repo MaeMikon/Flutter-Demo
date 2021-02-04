@@ -9,9 +9,10 @@
         simple_rsa: ^0.0.5
 ```
   - Cài đặt package bằng lệnh "flutter pub get".
-+ Cách sử dung:
-  - Khởi tạo khóa bí mật và khóa công khai:
+ + Khởi tạo khóa bí mật và khóa công khai:
 ```
       final PUBLIC_KEY =
       final PRIVATE_KEY =
 ```
+
+ 
